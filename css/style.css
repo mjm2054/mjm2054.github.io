@@ -4,7 +4,7 @@ body {
   max-width: 1200px;
   margin: auto;
   padding: 10px;
-  background-image: url(./images/ocean-background.jpeg);
+  background-image: url(../images/ocean-background.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
 }
