@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
 body {
-  font-family: 'Arvo','Georgia','Times New Roman' serif;
+  font-family: 'Noto Serif','Georgia','Times New Roman', serif;
   max-width: 1200px;
   margin: auto;
   padding: 10px;
